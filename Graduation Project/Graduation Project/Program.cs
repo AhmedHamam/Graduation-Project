@@ -16,6 +16,7 @@ namespace Graduation_Project
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Frm_Patient_Booking());
         }
     }
 }
