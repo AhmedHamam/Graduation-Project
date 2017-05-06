@@ -1,0 +1,12 @@
+D:\Graduation-Project\Graduation Project\Graduation Project\bin\Debug\Graduation Project.exe.config
+D:\Graduation-Project\Graduation Project\Graduation Project\bin\Debug\Graduation Project.exe
+D:\Graduation-Project\Graduation Project\Graduation Project\bin\Debug\Graduation Project.pdb
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation Project.csprojResolveAssemblyReference.cache
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation_Project.Frm_Login.resources
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation_Project.Properties.Resources.resources
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation Project.csproj.GenerateResource.Cache
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation Project.exe
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation Project.pdb
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation_Project.Frm_Main.resources
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation_Project.Frm_Patients_search_engine.resources
+D:\Graduation-Project\Graduation Project\Graduation Project\obj\Debug\Graduation_Project.Frm_Patient_Booking.resources
